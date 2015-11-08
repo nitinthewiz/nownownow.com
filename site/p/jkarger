@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>/now profile: Jan Karger</title>
+  <style type="text/css">
+body { font-family: Georgia, serif; font-size: 18px; padding: 0 5px; margin: 0 auto; max-width: 40em; line-height: 1.6em; }
+h1, h2, small { font-family: sans-serif; color: #900; }
+small { display: block; font-size: 0.8em; margin-bottom: 1em;}
+ul { margin: 0; padding: 0; }
+li { list-style-type: none; margin-bottom: 0.75em; }
+  </style>
+</head>
+<body>
+<section id="content">
+<h1>Jan Karger</h1>
+
+<h2><a href="/">/now</a>: <a href="http://jkarger.de/now">jkarger.de/now</a></h2>
+
+<h2>Location:</h2>
+<p>
+Aachen
+
+Germany
+</p>
+
+<h2>Professional title:</h2>
+<p>
+Software developer/coder at INFORM GmbH. It's a Operation Research company with 5 different business fields.  I'm in the logistics field. <a href="https://www.inform-software.com/logistics/containerterminals">https://www.inform-software.com/logistics/containerterminals</a>
+</p>
+
+<h2>What do you do?</h2>
+<p>
+In my work time, I help my company creating cool Uis for our business. In my free time, I live for my family, otherwise, I give a little help to the WPF/C# community.
+</p>
+
+<h2>Why?</h2>
+<p>
+I love to code. That's my appointment and destiny.  I love to help others and doing some strange stuff.  I love my family!
+</p>
+
+<h2>Recent thought or epiphany?</h2>
+<p>
+Do what you do and live your dream.
+</p>
+
+<h2>What should we read?</h2>
+<p>
+“The Pillars of the Earth” and “World Without End” by Ken Follett
+</p>
+
+<h2>URLs:</h2>
+<ul>
+
+	<li><a href="http://jkarger.de/">jkarger.de/</a></li>
+
+	<li><a href="https://github.com/punker76">github.com/punker76</a></li>
+
+	<li><a href="https://twitter.com/punker76">twitter.com/punker76</a></li>
+
+</ul>
+
+</section>
+</body>
+</html>

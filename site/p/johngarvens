@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>/now profile: John</title>
+  <style type="text/css">
+body { font-family: Georgia, serif; font-size: 18px; padding: 0 5px; margin: 0 auto; max-width: 40em; line-height: 1.6em; }
+h1, h2, small { font-family: sans-serif; color: #900; }
+small { display: block; font-size: 0.8em; margin-bottom: 1em;}
+ul { margin: 0; padding: 0; }
+li { list-style-type: none; margin-bottom: 0.75em; }
+  </style>
+</head>
+<body>
+<section id="content">
+<h1>John</h1>
+
+<h2><a href="/">/now</a>: <a href="http://www.johngarvens.com/now/">johngarvens.com/now</a></h2>
+
+<h2>Location:</h2>
+<p>
+Palatine
+IL
+United States
+</p>
+
+<h2>Professional title:</h2>
+<p>
+Digital Marketing Consultant at Garvens Media.
+</p>
+
+<h2>What do you do?</h2>
+<p>
+I help businesses leverage technology to generate demand, leads, and customers for their products and services.
+</p>
+
+<h2>Why?</h2>
+<p>
+I love marketing, sales, and technology. I also love optimizing systems and processes to increase effectiveness and efficiency. When you combine them, I really love using technology to optimize marketing and sales processes.
+</p>
+
+<h2>Recent thought or epiphany?</h2>
+<p>
+Live your life, not someone else’s.
+</p>
+
+<h2>What should we read?</h2>
+<p>
+The Art of Worldly Wisdom by Baltasar Gracian
+</p>
+
+<h2>URLs:</h2>
+<ul>
+
+	<li><a href="http://www.johngarvens.com/">www.johngarvens.com/</a></li>
+
+</ul>
+
+</section>
+</body>
+</html>

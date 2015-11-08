@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>/now profile: Alex Jerez</title>
+  <style type="text/css">
+body { font-family: Georgia, serif; font-size: 18px; padding: 0 5px; margin: 0 auto; max-width: 40em; line-height: 1.6em; }
+h1, h2, small { font-family: sans-serif; color: #900; }
+small { display: block; font-size: 0.8em; margin-bottom: 1em;}
+ul { margin: 0; padding: 0; }
+li { list-style-type: none; margin-bottom: 0.75em; }
+  </style>
+</head>
+<body>
+<section id="content">
+<h1>Alex Jerez</h1>
+
+<h2><a href="/">/now</a>: <a href="http://alexjerez.net/now/">alexjerez.net/now</a></h2>
+
+<h2>Location:</h2>
+<p>
+Huntington
+NY
+United States
+</p>
+
+<h2>Professional title:</h2>
+<p>
+Visual Artist, Programmer and Musician
+</p>
+
+<h2>What do you do?</h2>
+<p>
+I create things. sometimes on a computer, other times with my hands.
+</p>
+
+<h2>Why?</h2>
+<p>
+Because I enjoy it. If you can make a living doing what you enjoy, you're on a good track.
+</p>
+
+<h2>Recent thought or epiphany?</h2>
+<p>
+"If you're unsure of something, meditate on it. Whether that means sitting cross-legged with your eyes closed, going for a walk, or drawing a picture.  Sometimes you already know the answer, but your mind is too full to think clearly."
+</p>
+
+<h2>What should we read?</h2>
+<p>
+'Steal Like an Artist' by @austinkleon - A short but very inspiring read.  'How to Win Friends and Influence People' by Dale Carnegie - One of the original manuals for success. Read by a large number of successful people including Warren Buffet and Howard Stern
+</p>
+
+<h2>URLs:</h2>
+<ul>
+
+	<li><a href="http://alexjerez.net/">alexjerez.net/</a></li>
+
+	<li><a href="https://twitter.com/notalexjerez">twitter.com/notalexjerez</a></li>
+
+	<li><a href="https://instagram.com/notalexjerez/">instagram.com/notalexjerez/</a></li>
+
+</ul>
+
+</section>
+</body>
+</html>

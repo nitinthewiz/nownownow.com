@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>/now profile: Mauro Morales</title>
+  <style type="text/css">
+body { font-family: Georgia, serif; font-size: 18px; padding: 0 5px; margin: 0 auto; max-width: 40em; line-height: 1.6em; }
+h1, h2, small { font-family: sans-serif; color: #900; }
+small { display: block; font-size: 0.8em; margin-bottom: 1em;}
+ul { margin: 0; padding: 0; }
+li { list-style-type: none; margin-bottom: 0.75em; }
+  </style>
+</head>
+<body>
+<section id="content">
+<h1>Mauro Morales</h1>
+
+<h2><a href="/">/now</a>: <a href="http://mauromorales.com/now/">mauromorales.com/now</a></h2>
+
+<h2>Location:</h2>
+<p>
+Nuremberg
+
+Germany
+</p>
+
+<h2>Professional title:</h2>
+<p>
+Senior Ruby Developer at SUSE Linux
+</p>
+
+<h2>What do you do?</h2>
+<p>
+I craft free (as in freedom) software and share it and it's know-how with the world.
+</p>
+
+<h2>Why?</h2>
+<p>
+I love to create things out of nothing and care a lot about freedom. I think software development is the sweet spot to do this nowadays.
+</p>
+
+<h2>Recent thought or epiphany?</h2>
+<p>
+It's possible to do what you really want in life and pay the bills. You don't need to get into the rat race or give up on your dreams. Never settle until it feels right :)
+</p>
+
+<h2>What should we read?</h2>
+<p>
+<a href="https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution">https://en.wikipedia.org/wiki/Hackers:_Heroes_of_the_Computer_Revolution</a>
+</p>
+
+<h2>URLs:</h2>
+<ul>
+
+	<li><a href="http://mauromorales.com">mauromorales.com</a></li>
+
+	<li><a href="https://twitter.com/noiz777">twitter.com/noiz777</a></li>
+
+	<li><a href="http://h.abits.me">h.abits.me</a></li>
+
+</ul>
+
+</section>
+</body>
+</html>

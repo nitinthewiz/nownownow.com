@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>/now profile: Samuel Bosch</title>
+  <style type="text/css">
+body { font-family: Georgia, serif; font-size: 18px; padding: 0 5px; margin: 0 auto; max-width: 40em; line-height: 1.6em; }
+h1, h2, small { font-family: sans-serif; color: #900; }
+small { display: block; font-size: 0.8em; margin-bottom: 1em;}
+ul { margin: 0; padding: 0; }
+li { list-style-type: none; margin-bottom: 0.75em; }
+  </style>
+</head>
+<body>
+<section id="content">
+<h1>Samuel Bosch</h1>
+
+<h2><a href="/">/now</a>: <a href="http://www.samuelbosch.com/p/now.html">samuelbosch.com/p/now.html</a></h2>
+
+<h2>Location:</h2>
+<p>
+Ghent
+
+Belgium
+</p>
+
+<h2>Professional title:</h2>
+<p>
+Software developer/Scientific assistant
+</p>
+
+<h2>What do you do?</h2>
+<p>
+I turn data into scientific knowledge and help other people do the same.
+</p>
+
+<h2>Why?</h2>
+<p>
+I love to find nuggets of gold in a sea of data and helping people do the same. Programming is my preferred tool to achieve this.
+</p>
+
+<h2>Recent thought or epiphany?</h2>
+<p>
+Ask open questions and leave your ego on the side if you want to understand others.
+</p>
+
+<h2>What should we read?</h2>
+<p>
+Harry Potter and the Methods of Rationality by Eliezer Yudkowsky.  Flatland: A Romance Of Many Dimensions by Edwin A. Abbott.
+</p>
+
+<h2>URLs:</h2>
+<ul>
+
+	<li><a href="http://www.samuelbosch.com/">www.samuelbosch.com/</a></li>
+
+	<li><a href="https://gratipay.com/~samuelbosch/">gratipay.com/~samuelbosch/</a></li>
+
+	<li><a href="https://twitter.com/gissolved">twitter.com/gissolved</a></li>
+
+	<li><a href="https://plus.google.com/+SamuelBosch/posts">plus.google.com/+SamuelBosch/posts</a></li>
+
+	<li><a href="https://github.com/samuelbosch">github.com/samuelbosch</a></li>
+
+	<li><a href="https://www.linkedin.com/in/samuelbosch">www.linkedin.com/in/samuelbosch</a></li>
+
+	<li><a href="http://careers.stackoverflow.com/samuelbosch">careers.stackoverflow.com/samuelbosch</a></li>
+
+</ul>
+
+</section>
+</body>
+</html>

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>/now profile: Chris Geirman</title>
+  <style type="text/css">
+body { font-family: Georgia, serif; font-size: 18px; padding: 0 5px; margin: 0 auto; max-width: 40em; line-height: 1.6em; }
+h1, h2, small { font-family: sans-serif; color: #900; }
+small { display: block; font-size: 0.8em; margin-bottom: 1em;}
+ul { margin: 0; padding: 0; }
+li { list-style-type: none; margin-bottom: 0.75em; }
+  </style>
+</head>
+<body>
+<section id="content">
+<h1>Chris Geirman</h1>
+
+<h2><a href="/">/now</a>: <a href="http://www.geirman.com/now/">geirman.com/now</a></h2>
+
+<h2>Location:</h2>
+<p>
+San Diego
+CA
+United States
+</p>
+
+<h2>Professional title:</h2>
+<p>
+Founder FrogQuest, React Native Mobile Developer
+</p>
+
+<h2>What do you do?</h2>
+<p>
+I value one's right to choose what they do with their time and live that choice everyday deterministically
+</p>
+
+<h2>Why?</h2>
+<p>
+I work for others as little as possible, and prioritize those things which I believe are worthy. I write software because I enjoy the challenges, the community, and the opportunities.
+</p>
+
+<h2>Recent thought or epiphany?</h2>
+<p>
+Giving truly is the greatest gift you receive in life and OSS
+</p>
+
+<h2>What should we read?</h2>
+<p>
+Replay by Ken Grimmwood, best fiction I've ever read
+</p>
+
+<h2>URLs:</h2>
+<ul>
+
+	<li><a href="http://www.geirman.com/">www.geirman.com/</a></li>
+
+	<li><a href="https://twitter.com/geirmanc">twitter.com/geirmanc</a></li>
+
+</ul>
+
+</section>
+</body>
+</html>

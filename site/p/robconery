@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>/now profile: Rob Conery</title>
+  <style type="text/css">
+body { font-family: Georgia, serif; font-size: 18px; padding: 0 5px; margin: 0 auto; max-width: 40em; line-height: 1.6em; }
+h1, h2, small { font-family: sans-serif; color: #900; }
+small { display: block; font-size: 0.8em; margin-bottom: 1em;}
+ul { margin: 0; padding: 0; }
+li { list-style-type: none; margin-bottom: 0.75em; }
+  </style>
+</head>
+<body>
+<section id="content">
+<h1>Rob Conery</h1>
+
+<h2><a href="/">/now</a>: <a href="http://rob.conery.io/now/">rob.conery.io/now</a></h2>
+
+<h2>Location:</h2>
+<p>
+Seattle
+WA
+United States
+</p>
+
+<h2>Professional title:</h2>
+<p>
+I want to say “Author” or “Video Production Editor” but that’s only a small part of what I do. I like to build things and tinker - so maybe “Tinkerer”. I work on my own so I get to choose my own title. (see below)
+</p>
+
+<h2>What do you do?</h2>
+<p>
+I tend to seek the edges of things: conversations, technology, ideas. To me, that’s where the interesting bits are - right where they’re defined.
+</p>
+
+<h2>Why?</h2>
+<p>
+I get tremendously bored and burned out unless I’m creating something. This tends to be educational material for the most part, sometimes it’s simply an argument. Perhaps my title should be “Agent of Chaos”.
+</p>
+
+<h2>Recent thought or epiphany?</h2>
+<p>
+I realized this last month how powerful one small tweak in your daily routine can be. I started moving to bi-phasic sleep and have found myself drinking less beer, sleeping much better and therefore working more efficiently - with a lot more time in the day! I went to the gym at 1:30am last night and slept like a rock for 5 hours. I wake up today focused and ready to roll.
+</p>
+
+<h2>What should we read?</h2>
+<p>
+The 4-hour Body by Tim Ferris. I wish I had his discipline.
+</p>
+
+<h2>URLs:</h2>
+<ul>
+
+	<li><a href="http://rob.conery.io/">rob.conery.io/</a></li>
+
+	<li><a href="https://twitter.com/robconery">twitter.com/robconery</a></li>
+
+	<li><a href="https://github.com/robconery">github.com/robconery</a></li>
+
+</ul>
+
+</section>
+</body>
+</html>

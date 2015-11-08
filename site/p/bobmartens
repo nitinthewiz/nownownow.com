@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>/now profile: Bob Martens</title>
+  <style type="text/css">
+body { font-family: Georgia, serif; font-size: 18px; padding: 0 5px; margin: 0 auto; max-width: 40em; line-height: 1.6em; }
+h1, h2, small { font-family: sans-serif; color: #900; }
+small { display: block; font-size: 0.8em; margin-bottom: 1em;}
+ul { margin: 0; padding: 0; }
+li { list-style-type: none; margin-bottom: 0.75em; }
+  </style>
+</head>
+<body>
+<section id="content">
+<h1>Bob Martens</h1>
+
+<h2><a href="/">/now</a>: <a href="http://bobmartens.net/now/">bobmartens.net/now</a></h2>
+
+<h2>Location:</h2>
+<p>
+New Ulm
+MN
+United States
+</p>
+
+<h2>Professional title:</h2>
+<p>
+System & Network Administrator at Martin Luther College. Partner at Martens Family Farm.  I do some independent tech consulting and web design/hosting as well, but those are probably the two closest things to titles that I have. At Martin Luther College I am technically still the Webmaster/Technician, but I’ve been doing the sysadmin/network admin role for the past 2+ years already, but they haven’t yet changed the official job title.
+</p>
+
+<h2>What do you do?</h2>
+<p>
+I work to enable people to use technology effectively.  More succinctly (and generically): I do what is needed when it is needed.
+</p>
+
+<h2>Why?</h2>
+<p>
+The most basic and most honest reason is because of my faith in God and in appreciation for the undeserved grace I have received. Everything flows from that. I could talk about watching my parents toil away on the family farm to keep things going while I was younger and everything, but the first statement rings most true. I can’t stand the thought that I haven’t given everything that I have to give each day and so I continue to work hard at whatever it is that I need to.
+</p>
+
+<h2>Recent thought or epiphany?</h2>
+<p>
+It is OK to treat people differently because, shocking as it is, people are different and have different needs and wants. The idea that we need to treat everyone the same is really a shame.
+</p>
+
+<h2>What should we read?</h2>
+<p>
+Besides reading the Bible, I’d recommend The Advantage by Patrick Lencioni. Really digs into the importance of organizational health. Great book, and I’d recommend his others as well. All short reads but packed with stuff to think about.
+</p>
+
+<h2>URLs:</h2>
+<ul>
+
+	<li><a href="http://bobmartens.net/">bobmartens.net/</a></li>
+
+	<li><a href="https://twitter.com/boblmartens">twitter.com/boblmartens</a></li>
+
+	<li><a href="https://github.com/boblmartens">github.com/boblmartens</a></li>
+
+	<li><a href="https://www.facebook.com/boblmartens">www.facebook.com/boblmartens</a></li>
+
+	<li><a href="https://plus.google.com/+BobMartens/posts">plus.google.com/+BobMartens/posts</a></li>
+
+	<li><a href="https://www.linkedin.com/pub/bob-martens/77/35/544">www.linkedin.com/pub/bob-martens/77/35/544</a></li>
+
+</ul>
+
+</section>
+</body>
+</html>

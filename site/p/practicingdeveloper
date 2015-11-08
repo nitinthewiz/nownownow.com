@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>/now profile: Gregory Brown</title>
+  <style type="text/css">
+body { font-family: Georgia, serif; font-size: 18px; padding: 0 5px; margin: 0 auto; max-width: 40em; line-height: 1.6em; }
+h1, h2, small { font-family: sans-serif; color: #900; }
+small { display: block; font-size: 0.8em; margin-bottom: 1em;}
+ul { margin: 0; padding: 0; }
+li { list-style-type: none; margin-bottom: 0.75em; }
+  </style>
+</head>
+<body>
+<section id="content">
+<h1>Gregory Brown</h1>
+
+<h2><a href="/">/now</a>: <a href="http://practicingdeveloper.com/now/">practicingdeveloper.com/now</a></h2>
+
+<h2>Location:</h2>
+<p>
+New Haven
+CT
+United States
+</p>
+
+<h2>Professional title:</h2>
+<p>
+Independent software developer, writer, and teacher
+</p>
+
+<h2>What do you do?</h2>
+<p>
+I help programmers explore the kinds of questions that make their work more meaningful.
+</p>
+
+<h2>Why?</h2>
+<p>
+I am generally unhappy with the state of the tech education world.  I want to encourage software developers to adopt a more human-centric focus.  The more skilled someone is, the more opportunity they'll have to make better choices in life.
+</p>
+
+<h2>Recent thought or epiphany?</h2>
+<p>
+Not all hard work is created equal. If you have a sense of purpose, you can work like crazy and be left wanting to do more. Without that, it's nothing but a grind.
+</p>
+
+<h2>What should we read?</h2>
+<p>
+“Thinking, Fast and Slow”
+</p>
+
+<h2>URLs:</h2>
+<ul>
+
+	<li><a href="http://practicingruby.com">practicingruby.com</a></li>
+
+	<li><a href="https://twitter.com/seacreature">twitter.com/seacreature</a></li>
+
+	<li><a href="http://blog.majesticseacreature.com/">blog.majesticseacreature.com/</a></li>
+
+	<li><a href="http://university.rubymendicant.com/">university.rubymendicant.com/</a></li>
+
+	<li><a href="http://practicingdeveloper.com/">practicingdeveloper.com/</a></li>
+
+</ul>
+
+</section>
+</body>
+</html>

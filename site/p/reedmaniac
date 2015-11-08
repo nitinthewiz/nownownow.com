@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>/now profile: Paul Burdick</title>
+  <style type="text/css">
+body { font-family: Georgia, serif; font-size: 18px; padding: 0 5px; margin: 0 auto; max-width: 40em; line-height: 1.6em; }
+h1, h2, small { font-family: sans-serif; color: #900; }
+small { display: block; font-size: 0.8em; margin-bottom: 1em;}
+ul { margin: 0; padding: 0; }
+li { list-style-type: none; margin-bottom: 0.75em; }
+  </style>
+</head>
+<body>
+<section id="content">
+<h1>Paul Burdick</h1>
+
+<h2><a href="/">/now</a>: <a href="http://reedmaniac.com/now">reedmaniac.com/now</a></h2>
+
+<h2>Location:</h2>
+<p>
+Portland
+OR
+United States
+</p>
+
+<h2>Professional title:</h2>
+<p>
+I have been an outdoor guide, web developer, VP Engineering, and Chief Technology Officer but at my core I like to think of myself as a Geek.
+</p>
+
+<h2>What do you do?</h2>
+<p>
+Eternal student and explorer.
+</p>
+
+<h2>Why?</h2>
+<p>
+The Universe is so vast and beautiful. Human civilization and culture is so fantastic and our potential seemingly endless. I cannot imagine a day when I am not trying to learn or build something new.
+</p>
+
+<h2>Recent thought or epiphany?</h2>
+<p>
+The constraints of reality are antithetical to my goals.
+</p>
+
+<h2>What should we read?</h2>
+<p>
+"The Name of the Wind" by Patrick Rothfuss.
+</p>
+
+<h2>URLs:</h2>
+<ul>
+
+	<li><a href="http://reedmaniac.com/">reedmaniac.com/</a></li>
+
+	<li><a href="https://twitter.com/reedmaniac">twitter.com/reedmaniac</a></li>
+
+	<li><a href="https://github.com/reedmaniac">github.com/reedmaniac</a></li>
+
+	<li><a href="http://shapelesschaos.com/">shapelesschaos.com/</a></li>
+
+	<li><a href="https://www.linkedin.com/in/paulburdick">www.linkedin.com/in/paulburdick</a></li>
+
+</ul>
+
+</section>
+</body>
+</html>

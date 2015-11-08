@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>/now profile: Kevin Marsden</title>
+  <style type="text/css">
+body { font-family: Georgia, serif; font-size: 18px; padding: 0 5px; margin: 0 auto; max-width: 40em; line-height: 1.6em; }
+h1, h2, small { font-family: sans-serif; color: #900; }
+small { display: block; font-size: 0.8em; margin-bottom: 1em;}
+ul { margin: 0; padding: 0; }
+li { list-style-type: none; margin-bottom: 0.75em; }
+  </style>
+</head>
+<body>
+<section id="content">
+<h1>Kevin Marsden</h1>
+
+<h2><a href="/">/now</a>: <a href="http://kmarsden.com/now/">kmarsden.com/now</a></h2>
+
+<h2>Location:</h2>
+<p>
+Folsom
+CA
+United States
+</p>
+
+<h2>Professional title:</h2>
+<p>
+Happiness Engineer at Automattic (makers of WordPress.com)
+</p>
+
+<h2>What do you do?</h2>
+<p>
+I help people build websites and resolve technical issues
+</p>
+
+<h2>Why?</h2>
+<p>
+I really enjoy the combination of helping people and solving difficult problems.
+</p>
+
+<h2>Recent thought or epiphany?</h2>
+<p>
+I'm finding success forming new habits by writing down a habit checklist every day.  Every morning I write down: push-ups, pull-ups, run/walk, floss, and no alcohol and then check them off as I accomplish each task.  The act of writing it down and creating active habit streaks is helpful and motivating.
+</p>
+
+<h2>What should we read?</h2>
+<p>
+All the Light We Cannot See by Anthony Doerr
+</p>
+
+<h2>URLs:</h2>
+<ul>
+
+	<li><a href="http://kmarsden.com/">kmarsden.com/</a></li>
+
+	<li><a href="https://kevmarsden.wordpress.com/">kevmarsden.wordpress.com/</a></li>
+
+	<li><a href="https://twitter.com/kevincmarsden">twitter.com/kevincmarsden</a></li>
+
+	<li><a href="https://plus.google.com/+KevinMarsden/posts">plus.google.com/+KevinMarsden/posts</a></li>
+
+	<li><a href="https://github.com/kevmarsden">github.com/kevmarsden</a></li>
+
+	<li><a href="http://stackoverflow.com/users/1379025/kevin-marsden">stackoverflow.com/users/1379025/kevin-marsden</a></li>
+
+</ul>
+
+</section>
+</body>
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>/now profile: Darren Beale</title>
+  <style type="text/css">
+body { font-family: Georgia, serif; font-size: 18px; padding: 0 5px; margin: 0 auto; max-width: 40em; line-height: 1.6em; }
+h1, h2, small { font-family: sans-serif; color: #900; }
+small { display: block; font-size: 0.8em; margin-bottom: 1em;}
+ul { margin: 0; padding: 0; }
+li { list-style-type: none; margin-bottom: 0.75em; }
+  </style>
+</head>
+<body>
+<section id="content">
+<h1>Darren Beale</h1>
+
+<h2><a href="/">/now</a>: <a href="http://bealers.com/now/">bealers.com/now</a></h2>
+
+<h2>Location:</h2>
+<p>
+Shrewsbury
+Shropshire
+United Kingdom
+</p>
+
+<h2>Professional title:</h2>
+<p>
+Owner / Manager of a software development company called Siftware (Siftware.com).
+</p>
+
+<h2>What do you do?</h2>
+<p>
+I specialise in removing the hassle & worry for owners or managers of existing PHP web applications; helping them keep key, possibly aging, custom web sites running, up-to-date & secure.
+</p>
+
+<h2>Why?</h2>
+<p>
+Frankly: I used to just like geeking out & solving people's problems. These days as I've stepped away from cutting code I enjoy the multiple challenges of running a business and building a great team whilst working with clients who value what we do.
+</p>
+
+<h2>Recent thought or epiphany?</h2>
+<p>
+A lot of people in my industry, particularly those leaning towards the geekier/engineering side, appear to be living relatively unhealthy lives, be that poor diet, lack of exercise, working too hard or having poor sleeping habits. I worry that a lot of my peers are, like I did, storing up a bunch of health problems that may come back and bite them in later life.
+</p>
+
+<h2>What should we read?</h2>
+<p>
+Non-fiction: “Zen To Done (ZTD)” by Leo Babauta.  <a href="http://zenhabits.net/zen-to-done-ztd-the-ultimate-simple-productivity-system">http://zenhabits.net/zen-to-done-ztd-the-ultimate-simple-productivity-system</a> Fiction: “Ready Player One” by Earnest Cline (it might help if you grew up in the 80s)
+</p>
+
+<h2>URLs:</h2>
+<ul>
+
+	<li><a href="http://bealers.com/">bealers.com/</a></li>
+
+	<li><a href="https://twitter.com/bealers">twitter.com/bealers</a></li>
+
+	<li><a href="http://uk.linkedin.com/in/bealers/">uk.linkedin.com/in/bealers/</a></li>
+
+</ul>
+
+</section>
+</body>
+</html>
