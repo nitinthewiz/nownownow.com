@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>/now profile: <%=h @person['name'] %></title>
+  <style type="text/css">
+body { font-family: Georgia, serif; font-size: 18px; padding: 0 5px; margin: 0 auto; max-width: 40em; line-height: 1.6em; }
+h1, h2, small { font-family: sans-serif; color: #900; }
+small { display: block; font-size: 0.8em; margin-bottom: 1em;}
+ul { margin: 0; padding: 0; }
+li { list-style-type: none; margin-bottom: 0.75em; }
+  </style>
+</head>
+<body>
+<section id="content">
+<h1><%=h @person['name'] %></h1>
+
+<h2><a href="/">/now</a>: <a href="<%= @now['long'] %>"><%= @now['short'] %></a></h2>
+
+<h2>Location:</h2>
+<p>
+<%= @person['city'] %>
+<%= @person['state'] %>
+<%= @person['country'] %>
+</p>
+
+<h2>Professional title:</h2>
+<p>
+<%= @profile['title'].autolink %>
+</p>
+
+<h2>What do you do?</h2>
+<p>
+<%= @profile['liner'].autolink %>
+</p>
+
+<h2>Why?</h2>
+<p>
+<%= @profile['why'].autolink %>
+</p>
+
+<h2>Recent thought or epiphany?</h2>
+<p>
+<%= @profile['thought'].autolink %>
+</p>
+
+<h2>What should we read?</h2>
+<p>
+<%= @profile['red'].autolink %>
+</p>
+
+<h2>URLs:</h2>
+<ul>
+<% @urls.each do |url| %>
+	<li><a href="<%= url %>"><%= url.gsub(/^https?:\/\//, '') %></a></li>
+<% end %>
+</ul>
+
+</section>
+</body>
+</html>
