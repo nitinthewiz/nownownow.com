@@ -54,7 +54,7 @@ li { list-style-type: none; margin-bottom: 0.75em; }
 <h2>URLs:</h2>
 <ul>
 <% @urls.each do |url| %>
-	<li><a href="<%= url %>"><%= url.gsub(/^https?:\/\//, '') %></a></li>
+	<li><a href="<%= url %>"><%= url.gsub(/^https?:\/\//, '').gsub(/^www\./, '') %></a></li>
 <% end %>
 </ul>
 
