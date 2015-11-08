@@ -37,7 +37,7 @@ footer = <<STR
 <h2>Total count: %d</h2>
 <p>To add one, email <a href="http://sivers.org/">me</a> at <a href="mailto:derek@sivers.org">derek@sivers.org</a></p>
 <small>Last update: %s</small>
-<small><a href="https://github.com/sivers/tiny/blob/master/nownownow/make.rb?ts=2">See the code</a> that makes this site.</small>
+<small><a href="https://github.com/50pop/nownownow.com">See the code</a> that makes this site.</small>
 </section>
 <script>
 var ul = document.getElementsByTagName('ul')[0];
