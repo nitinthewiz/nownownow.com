@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 require 'pg'
 require 'erb'
 DB = PG::Connection.new(port: 5433, hostaddr: '127.0.0.1', dbname: 'd50b', user: 'd50b')
