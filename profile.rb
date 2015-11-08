@@ -35,7 +35,7 @@ res.map{|r| r['person_id'].to_i}.each do |person_id|
 		@profile[r['statkey'][4..-1]] = r['statvalue']
 	end
 	# merge into template, saving as tiny.html
-	File.open(@now['tiny'] + '.html', 'w') do |f|
+	File.open('site/p/' + @now['tiny'], 'w') do |f|
 		f.puts ERB.new(template).result
 	end
 end

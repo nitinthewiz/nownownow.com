@@ -97,7 +97,7 @@ res = DB.exec("SELECT tiny, short, long FROM now.urls WHERE long IS NOT NULL ORD
 File.open('site/index.html', 'w') do |f|
 	f.puts header
 	res.each do |r|
-		profile_link = 'p/%s.html' % r['tiny']
+		profile_link = 'p/' + r['tiny']
 		profile_show = ''
 		if File.exist?('site/' + profile_link)
 			profile_show = ' (<a href="%s">+</a>)' % profile_link
