@@ -98,9 +98,8 @@ task :index do
 end
 
 desc 'add a new URL: rake add something.net/now'
-task :add, [:a1, :a2] do |t, args|
-	puts t.inspect
-	puts args.inspect
+task :add do
+	short = ARGV[1]
 	raise 'bad URL' unless /\S+\.\S+/ === short
 	res = DB.exec_params("INSERT INTO now.urls (short) VALUES ($1) RETURNING *", [short])
 	u = res[0]
@@ -110,7 +109,5 @@ task :add, [:a1, :a2] do |t, args|
 		SET tiny=SUBSTRING(short, 1, position('.' IN short) - 1)
 		WHERE id=%d RETURNING *" % u['id'])
 	puts res[0].inspect
-	Rake::Task['index'].execute
-	%x(git diff site/index.html)
 end
 
