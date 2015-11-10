@@ -24,7 +24,7 @@ Follow <a href="https://twitter.com/NowNowNow">@NowNowNow</a> for updates.
 </small>
 <ul>
 <% @urls.each do |url| %>
-<li><a href="<%= url[:long] %>"><%= url[:short] %></a><%= url[:profile] %></li>
+<li><a target="_blank" href="<%= url[:long] %>"><%= url[:short] %></a><%= url[:profile] %></li>
 <% end %>
 </ul>
 <h2>Total count: <%= @urls.size %></h2>
