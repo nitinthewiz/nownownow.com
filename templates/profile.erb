@@ -17,7 +17,7 @@ li { list-style-type: none; margin-bottom: 0.75em; }
 <section id="content">
 <h1><%=h @person['name'] %></h1>
 
-<h2><a href="/">/now</a>: <a href="<%= @now['long'] %>"><%= @now['short'] %></a></h2>
+<h2><a href="/">/now</a>: <a target="_blank" href="<%= @now['long'] %>"><%= @now['short'] %></a></h2>
 
 <h2>Location:</h2>
 <p>
@@ -54,7 +54,7 @@ li { list-style-type: none; margin-bottom: 0.75em; }
 <h2>URLs:</h2>
 <ul>
 <% @urls.each do |url| %>
-	<li><a href="<%= url %>"><%= url.gsub(/^https?:\/\//, '').gsub(/^www\./, '') %></a></li>
+	<li><a target="_blank" href="<%= url %>"><%= url.gsub(/^https?:\/\//, '').gsub(/^www\./, '') %></a></li>
 <% end %>
 </ul>
 
